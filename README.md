@@ -5,6 +5,6 @@
 </p>
 
 
-### ¡Bienvenido al proyecto base del Portafolio ! Pasos principales:
+### ¡Bienvenido al proyecto Portafolio
 
 
